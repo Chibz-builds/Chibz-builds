@@ -1,20 +1,9 @@
 <div align="center">
 
 <!-- Banner -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,40:1D4ED8,70:2563EB,100:60A5FA&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=40"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:DBEAFE,35:93C5FD,70:3B82F6,100:1D4ED8&text=Welcome%20to%20My%20GitHub&fontColor=0F172A&fontSize=48&animation=fadeIn&fontAlignY=40"
-  />
-  <img
-    alt="GitHub Banner"
-    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1D4ED8,100:60A5FA&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=40"
-  />
-</picture>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,19,20,24&text=Welcome%20to%20My%20GitHub&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+</div>
 
 # Hey there, I'm Peter 👋
 
