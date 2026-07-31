@@ -74,9 +74,10 @@ I enjoy turning ideas into polished products using modern web technologies while
 
 ## 📈 GitHub Analytics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Chibz-builds&show_icons=true&theme=transparent&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1&border_color=2563EB"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chibz-builds&layout=compact&theme=transparent&title_color=60A5FA&text_color=CBD5E1&border_color=2563EB"/>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Chibz-builds&show_icons=true&theme=tokyonight&border_color=2563EB" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chibz-builds&layout=compact&theme=tokyonight&border_color=2563EB" alt="Top Languages" />
+</p>
 
 </div>
 
@@ -86,7 +87,9 @@ I enjoy turning ideas into polished products using modern web technologies while
 
 ## 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=Chibz-builds&theme=transparent&border=2563EB&stroke=3B82F6&ring=60A5FA&fire=3B82F6&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Chibz-builds&theme=tokyonight&border=2563EB" alt="GitHub Streak" />
+</p>
 
 </div>
 
