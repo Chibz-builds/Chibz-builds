@@ -74,9 +74,7 @@ I enjoy turning ideas into polished products using modern web technologies while
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chibz-builds&theme=tokyonight&hide_border=true" alt="Activity Stats"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chibz-builds&bg_color=0D1117&color=60A5FA&line=3B82F6&point=2563EB&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
 ---
