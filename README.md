@@ -75,8 +75,8 @@ I enjoy turning ideas into polished products using modern web technologies while
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-eight.vercel.app/api?username=Chibz-builds&show_icons=true&theme=tokyonight&border_color=2563EB" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Chibz-builds&layout=compact&theme=tokyonight&border_color=2563EB" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.azurewebsites.net/api?username=Chibz-builds&show_icons=true&theme=tokyonight&border_color=2563EB" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=Chibz-builds&layout=compact&theme=tokyonight&border_color=2563EB" alt="Top Languages" />
 </p>
 
 </div>
