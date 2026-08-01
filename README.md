@@ -82,6 +82,7 @@ I enjoy turning ideas into polished products using modern web technologies while
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=Chibz-builds&theme=tokyonight" alt="Top Languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chibz-builds&theme=tokyonight" alt="Profile Stats" height="165" />
 </p>
 
 </div>
