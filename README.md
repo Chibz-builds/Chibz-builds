@@ -75,14 +75,8 @@ I enjoy turning ideas into polished products using modern web technologies while
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Chibz-builds?label=Followers&style=for-the-badge&color=2563EB&labelColor=0F172A" />
-  <img src="https://img.shields.io/badge/Total%20Commits-100%2B-2563EB?style=for-the-badge&labelColor=0F172A&logo=github" />
-  <img src="https://img.shields.io/github/stars/Chibz-builds?affiliations=OWNER&label=Stars%20Earned&style=for-the-badge&color=2563EB&labelColor=0F172A" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=Chibz-builds&theme=tokyonight" alt="Top Languages" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chibz-builds&theme=tokyonight" alt="Profile Stats" height="165" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chibz-builds&theme=tokyonight" alt="GitHub Profile Details" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chibz-builds&theme=tokyonight" alt="Profile Stats" />
 </p>
 
 </div>
