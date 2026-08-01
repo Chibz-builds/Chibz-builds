@@ -82,10 +82,9 @@ I enjoy turning ideas into polished products using modern web technologies while
 
 <!-- Top Languages Bar -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=Chibz-builds&theme=tokyonight" alt="Top Languages" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chibz-builds&theme=tokyonight" alt="Profile Stats" height="165" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chibz-builds&theme=tokyonight" alt="Repos Per Language" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chibz-builds&theme=tokyonight" alt="Profile Stats" />
 </p>
-
 </div>
 ---
 
