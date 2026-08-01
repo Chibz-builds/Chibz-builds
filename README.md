@@ -75,8 +75,7 @@ I enjoy turning ideas into polished products using modern web technologies while
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chibz-builds&theme=tokyonight" alt="GitHub Profile Summary" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=Chibz-builds&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chibz-builds&theme=tokyonight&hide_border=true" alt="Activity Stats"/>
 </p>
 
 </div>
